@@ -1,5 +1,6 @@
 # ellipse_detector4aMatch-2020
 Single camera ellipse detector
+Can calculate the object's position and return distance from the camera and angle in horizontal and vertical direction.
 
 # Operating system & Environment
 Linux only for now
